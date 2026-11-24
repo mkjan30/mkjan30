@@ -10,7 +10,7 @@ I work in search, and I build the tools I wish existed: small web apps, browser 
 |---|---|---|
 | [kitchenwatcher](https://github.com/mkjan30/kitchenwatcher) | A site about kitchen accessories and gear | MDX |
 | [travelplan](https://github.com/mkjan30/travelplan) | Mobile-first trip planner: itinerary, budget, places, packing, currency and golden-hour times | React, Vite |
-| [Maps-Lead-Scraper-](https://github.com/mkjan30/Maps-Lead-Scraper-) | Chrome extension that collects business leads from Google Maps and exports them to CSV | TypeScript, React, Supabase |
+| [Maps-Lead-Scraper](https://github.com/mkjan30/Maps-Lead-Scraper) | Chrome extension that collects business leads from Google Maps and exports them to CSV | TypeScript, React, Supabase |
 | [MaksExp](https://github.com/mkjan30/MaksExp) | Single-file expense tracker with budgets and analytics | HTML, CSS, JavaScript |
 
 ## Toolbox
